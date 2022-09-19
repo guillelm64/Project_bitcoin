@@ -16,3 +16,4 @@ _____________________________________________________________________________
 ### Objectives
 
 The object of this project is to understand bitcoin and the evolution of its prices through the years. Then, apply different Time Series models so we can anticipate the behaviour of bitcoin.
+Among those models we'll see; AR, ARIMA, Prophet, and also a Neural Network (LTSM). Checking for which the model performs the best.
